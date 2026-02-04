@@ -1,5 +1,5 @@
 # ⭐ ABOUT ME ⭐
-Heyy, I’m a Data Science student who enjoys building interactive web projects with Python and JavaScript.<br>I like mixing AI/ML concepts with creative ideas. I'm currently exploring machine learning and backend development and always open to collaborating on beginner-friendly open-source or web projects<br>I enjoy turning boring concepts into game-like experiences and I'm always open to collaborating on beginner-friendly open-source and web projects.🚀
+Heyy, I’m a Data Science student who enjoys building interactive web projects with Python and JavaScript.<br>I like mixing AI/ML concepts with creative ideas. I'm currently exploring machine learning and backend development<br> I enjoy turning boring concepts into game-like experiences and I'm always open to collaborating on beginner-friendly open-source and web projects.🚀
 
 
 ## 🌐 SOCIALS 🌐
