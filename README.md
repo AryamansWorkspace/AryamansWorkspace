@@ -2,7 +2,7 @@
 Heyy, I’m a Data Science student who enjoys building interactive web projects with Python and JavaScript.<br>I like mixing AI/ML concepts with creative ideas. I'm currently exploring machine learning and backend development and always open to collaborating on beginner-friendly open-source or web projects<br>I enjoy turning boring concepts into game-like experiences and I'm always open to collaborating on beginner-friendly open-source and web projects.🚀
 
 
-## 🌐 SOCIALS 🌐
+# 🌐 SOCIALS 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_aryamannn__0036) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-verma-329222289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryamanverma0206@gmail.com) 
 
 # 💻 TECH STACK 💻
