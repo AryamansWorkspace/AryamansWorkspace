@@ -38,6 +38,7 @@ Heyy, I’m a Data Science student who enjoys building interactive web projects 
 
 ###  SyncWave 🎶
 ###  Elyra 👾
+### ZenArcadia ⚔️
 
 
 ## 📊 GitHub Stats -
